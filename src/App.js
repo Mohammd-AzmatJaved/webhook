@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-console.log("Azmat")
+// console.log("Azmat")
 function App() {
   return (
     <div className="App">
